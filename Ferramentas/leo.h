@@ -1,0 +1,1 @@
+#define SUCESSO 0
