@@ -1,3 +1,4 @@
+package Aula3.SequenciaAteUm;
 import java.util.Locale;
 import java.util.Scanner;
 

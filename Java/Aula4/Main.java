@@ -1,4 +1,4 @@
-package Funcionarios;
+package Aula4;
 public class Main {    
     public static void main(String[] args) {
         Funcionario c1 = new Funcionario();
